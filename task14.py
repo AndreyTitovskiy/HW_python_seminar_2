@@ -10,4 +10,3 @@ while power_2 <= N:
     print(power_2)
     k += 1
     power_2 = 2 ** k
-

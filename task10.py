@@ -18,3 +18,4 @@ for i in range(n):
 
 min_flips = min(heads_count, tails_count)
 print("Минимальное количество монеток для переворота:", min_flips)
+
